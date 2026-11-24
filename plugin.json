@@ -1,0 +1,12 @@
+{
+  "apiVersion": "0.1",
+  "key": "kymind-password-vault",
+  "name": "账号密码管理器",
+  "author": "KyMind contributors",
+  "version": "0.1.0",
+  "description": "用主密码解锁本机账号库，查找、编辑账号并备份加密副本。",
+  "status": "active",
+  "entry": "main.js",
+  "license": { "type": "free" },
+  "permissions": ["database:read", "database:commit"]
+}
